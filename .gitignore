@@ -1,0 +1,8 @@
+.idea
+.DS_Store
+.snowpack
+build
+node_modules
+
+# Optional npm cache directory
+.npm
